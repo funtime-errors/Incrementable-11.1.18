@@ -1,0 +1,2 @@
+# Incrementable-11.1.18
+Declare an interface called 'Incrementable' that stores integers to be incremented in some way; create a method called 'increment'  that increments; create a method called 'getValue' that returns the value; write 2 classes called SequentialIncrementer and RandomIncrementer that implements the interface; The SequentialIncrementer begins with its value at 0 and increases it by one each time; the RandomIncrementer begings its value at a random integer and changes it to a new random integer at each increment.
